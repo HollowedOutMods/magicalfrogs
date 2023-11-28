@@ -239,6 +239,17 @@ Monsters/Knott_8
 Monsters/Knott_9
 Monsters/Knott_10
 Monsters/Knott_special
+Monsters/Knott_1_rare
+Monsters/Knott_2_rare
+Monsters/Knott_3_rare
+Monsters/Knott_4_rare
+Monsters/Knott_5_rare
+Monsters/Knott_6_rare
+Monsters/Knott_7_rare
+Monsters/Knott_8_rare
+Monsters/Knott_9_rare
+Monsters/Knott_10_rare
+Monsters/Knott_special_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -318,6 +329,7 @@ Monsters/Monster_plixie diamonds=5000
 Monsters/Monster_reebro diamonds=4000
 Monsters/Monster_wheezel_rock diamonds=30
 Monsters/Monster_knurv_rock diamonds=40
+Monster_fluoress
 -
 monster_rares:
 Monsters/Monster_oaktopus_rare
@@ -527,6 +539,10 @@ Monsters/Monster_fleechwurm_undof
 Monsters/Monster_wubbox_undof
 Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
+Monsters/Monster_treble
+Monsters/Monster_noggin_rare_undof
+Monsters/Monster_kayna_rare_undof
+Monsters/Monster_gumtromp_rare
 -
 decorations:
 Decoration/Decoration_test
@@ -614,6 +630,8 @@ Monsters/Monster_ffydill Vortex=1
 Monsters/Monster_blasoom
 Monsters/Monster_poewk Vortex=1
 Monsters/Monster_pixolotl Vortex=1
+Monsters/Monster_varrow_rare Vortex=2
+Monsters/Monster_banno_rare Vortex=2
 -
 decorations:
 Decoration/Decoration_test
