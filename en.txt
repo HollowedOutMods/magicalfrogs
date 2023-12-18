@@ -938,8 +938,8 @@ str_popup_islandAlreadyOn=You are already on this island.
 
 str_island_comingsoon=Coming Soon!
 
-str_island_City=Floating City
-str_island_City_bio=Floating City bio
+str_island_City=Archaic City
+str_island_City_bio=Archaic City bio
 
 str_island_EM=Evergreen Marsh
 str_island_EM_bio=Evergreen Marsh bio
