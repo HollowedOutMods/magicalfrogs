@@ -1,5 +1,5 @@
-egyptpipes_scene scene EgpytPipes
-egyptpipes_audio audio EgpytPipes
+egyptpipes_scene scene EgyptPipes
+egyptpipes_audio audio EgyptPipes
 
 monster_clamble entity-d Monsters/Monster_clamble
 desert scene-d Desert
